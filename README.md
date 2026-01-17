@@ -18,3 +18,4 @@ O objetivo é comparar duas cartas utilizando estruturas de decisão `if` e `if-
 
 ## Autor
 Thiago Petrus
+Atualização final para envio no SAVA.
